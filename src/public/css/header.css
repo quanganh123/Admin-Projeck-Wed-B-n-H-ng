@@ -1,0 +1,17 @@
+/* header */
+header{
+    width: 100%;
+}
+.btn {
+    border-radius: 20px;
+    background-color: var(--blue-color);
+}
+
+.btn:hover {
+    color: var(--white-coler);
+    background-color: var(--gray-color);
+}
+
+.nav-item {
+    margin-right: 10px;
+}
